@@ -9,7 +9,7 @@ body{
 }
 
 .animation-area{
-  background: linear-gradient(45deg,#F2749A, #F7C7BC);
+  background: linear-gradient(45deg,#7498f2, #bcf7ef);
   width: 100%;
   height: 100vh;
 }
@@ -30,7 +30,7 @@ body{
   width: 25px;
   height: 25px;
   border-radius: 50px;
-  background:#e6538bde;
+  background:#e65353de;
   animation: animate 20s linear infinite;
   bottom: 30px;
 }
